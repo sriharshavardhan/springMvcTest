@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="processFormv3" method="get">
-<input type="text" name="studentName" placeholder="whats your name?">
+<input type="text" name="studentName" placeholder="whats your name is?">
  <input type="submit">
 
 </form>
